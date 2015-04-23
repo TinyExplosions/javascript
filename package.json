@@ -1,23 +1,20 @@
 {
-  "name": "airbnb-style",
-  "version": "1.0.0",
-  "description": "A mostly reasonable approach to JavaScript.",
+  "name": "mbs-style",
+  "version": "0.0.9",
+  "description": "A mostly reasonable approach to JavaScript, mostly thanks to Airbnb",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/TinyExplosions/styleguide.git"
   },
   "keywords": [
     "style guide",
     "lint",
     "airbnb"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "Al Graham",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
-  },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/TinyExplosions/styleguide.git"
 }
